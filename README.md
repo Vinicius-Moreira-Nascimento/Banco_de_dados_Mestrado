@@ -122,4 +122,4 @@ Fique à vontade para clonar este repositório, testar localmente e sugerir melh
 
 ## 🧑‍💻 Autor
 
-Vinicius Moreira — 2025
+Vinicius Moreira Nascimento — 2025
