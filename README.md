@@ -18,8 +18,6 @@ O projeto está estruturado com foco em aplicações de **Machine Learning**, **
 ## 🗂️ Estrutura de Diretórios
 
 ```
-
-```
 WebApplication1/
 │
 ├── Controllers/           # Controladores da API (endpoints HTTP)
@@ -41,8 +39,6 @@ WebApplication1/
 ├── Program.cs             # Inicialização do app, configuração de serviços
 ├── WebApplication1.csproj # Projeto .NET
 └── README.md              # Este arquivo
-```
-
 ```
 
 ---
